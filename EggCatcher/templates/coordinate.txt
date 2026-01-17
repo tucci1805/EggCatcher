@@ -1,0 +1,6 @@
+is_gift.png | x:288, y:335, w:64, h:66
+background.png | x:59, y:11, w:104, h:42
+player.png | x:1, y:462, w:359, h:28
+a.png | x:72, y:472, w:37, h:10
+defeat.png | x:177, y:421, w:106, h:28
+defeat.png | x:180, y:415, w:102, h:38
